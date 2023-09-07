@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ResourceDirectory": {
+      "commandName": "Project",
+      "commandLineArgs": "--file \"D:\\Projects\\Norse\\AutoDocs365\\Apps\\DocumentLibrary\\COMAddIn\\AutoDocs.COMAddIns\\bin\\Debug\\AutoDocs365.dll\""
+    }
+  }
+}
